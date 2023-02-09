@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @melonik9
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... html
+- 🌱 I’m currently learning ... java
 - 💞️ I’m looking to collaborate on ... nothing
 - 📫 How to reach me ... theres no good way
 
