@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Melonik
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... java
+- 🌱 I’m currently learning ... UnrealEngine5
 - 💞️ I’m looking to collaborate on ... nothing
 - 📫 How to reach me ... theres no good way
 
