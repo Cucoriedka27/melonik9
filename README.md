@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Melonik
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... Unreal Engine 5
+- 🌱 I’m currently learning ... C++
 - 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ... Discord: Čučoriedka#8905
+- 📫 How to reach me ... Discord: .cucoriedka
 
 <!---
 melonik9/melonik9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
